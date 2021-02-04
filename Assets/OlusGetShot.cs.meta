@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d4854702012b7be40bf9b5aad03fe7b7
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - olusDummy: {fileID: 1630412094022210, guid: d8be158a8ec6295479b33a557fc11778,
+      type: 2}
+  - laserBeam_hit: {fileID: 1023082873180922, guid: 12bd1f38ae7ad9245ace9b0f715568fd,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
